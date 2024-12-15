@@ -1,0 +1,9 @@
+{
+  "asn": 138373,
+  "handle": "CNGI-FZH-IX-AP",
+  "description": "China Education and Research Network (CERNET)",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,5 +1,5 @@
 # AS215479 (PERFECTO)
 # Perfecto Consultoria E Apoio Administrativo LTDA
 #
-95.214.27.0/24
 178.215.238.0/24
+194.55.186.0/24
