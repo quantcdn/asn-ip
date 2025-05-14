@@ -1,9 +1,11 @@
 {
   "asn": 215165,
-  "handle": "ICEHOST",
+  "handle": "KOYORICE",
   "description": "Ye Zih Sian",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a05:dfc6:9400::/48"
+    ]
   }
 }

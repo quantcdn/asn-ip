@@ -1,5 +1,6 @@
 {
   "asn": 15645,
+  "handle": "DE-UKRAINIAN-INTERNET",
   "description": "DE Ukrainian Internet Exchange (UA-IX)",
   "subnets": {
     "ipv4": [
