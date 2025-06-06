@@ -1,0 +1,9 @@
+{
+  "asn": 2555,
+  "handle": "INTER-GRP-B",
+  "description": "PSI",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}
