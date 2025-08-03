@@ -1,9 +1,11 @@
 {
   "asn": 207397,
-  "handle": "EFIR-MUROM",
+  "handle": "EFIR-MUROM-AS",
   "description": "EFIR LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.73.0/24"
+    ],
     "ipv6": []
   }
 }

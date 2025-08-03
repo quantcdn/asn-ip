@@ -1,4 +1,4 @@
-# AS7633 (SOFTNET-AP)
+# AS7633 (SOFTNET-AS-AP)
 # Software Technology Parks of India - Bangalore
 #
 164.164.0.0/20

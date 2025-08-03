@@ -1,13 +1,11 @@
 {
   "asn": 213843,
-  "handle": "KOARA",
+  "handle": "KOARA-AS",
   "description": "Koara International Limited",
   "subnets": {
     "ipv4": [
       "147.45.216.0/24"
     ],
-    "ipv6": [
-      "2a0d:d940:20::/44"
-    ]
+    "ipv6": []
   }
 }

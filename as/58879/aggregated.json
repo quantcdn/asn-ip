@@ -1,7 +1,7 @@
 {
   "asn": 58879,
   "handle": "ANCHNET",
-  "description": "Shanghai Anchang Network Security Technology Co.,Ltd.",
+  "description": "Shanghai Anchang Network Security Technology Co. Ltd.",
   "subnets": {
     "ipv4": [
       "103.50.252.0/23",
@@ -40,6 +40,7 @@
       "154.48.247.0/24",
       "154.48.248.0/24",
       "154.48.250.0/23",
+      "185.78.105.0/24",
       "185.78.106.0/23"
     ],
     "ipv6": []

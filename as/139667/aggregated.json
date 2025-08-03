@@ -1,10 +1,9 @@
 {
   "asn": 139667,
-  "handle": "ETN-AP",
+  "handle": "ETN-AS-AP",
   "description": "Ether Technology Network",
   "subnets": {
     "ipv4": [
-      "103.143.88.0/23",
       "103.187.38.0/23"
     ],
     "ipv6": []

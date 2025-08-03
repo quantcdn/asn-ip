@@ -1,6 +1,6 @@
 {
   "asn": 139971,
-  "handle": "MDLNET-ID",
+  "handle": "MDLNET-AS-ID",
   "description": "PT. Medialink Intercontinental",
   "subnets": {
     "ipv4": [

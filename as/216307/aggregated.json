@@ -1,13 +1,13 @@
 {
   "asn": 216307,
-  "handle": "HYPERHOST",
+  "handle": "HYPERHOST-AS",
   "description": "Hyperhost Solutions Limited",
   "subnets": {
     "ipv4": [
       "185.218.100.0/24"
     ],
     "ipv6": [
-      "2a0e:fd45:2d70::/48"
+      "2a13:9500:62::/48"
     ]
   }
 }

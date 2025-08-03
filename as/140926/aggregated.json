@@ -1,11 +1,9 @@
 {
   "asn": 140926,
-  "handle": "INAZUMA-CN",
+  "handle": "INAZUMA-AS-CN",
   "description": "Aperture Science Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:feda:1e0::/44"
-    ]
+    "ipv6": []
   }
 }

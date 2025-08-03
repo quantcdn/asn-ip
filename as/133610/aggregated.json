@@ -1,12 +1,14 @@
 {
   "asn": 133610,
-  "handle": "BRAC",
+  "handle": "BRAC-AS",
   "description": "BRAC",
   "subnets": {
     "ipv4": [
       "103.43.93.0/24",
       "103.238.63.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2001:df1:9200::/48"
+    ]
   }
 }

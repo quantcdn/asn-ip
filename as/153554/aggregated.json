@@ -1,6 +1,6 @@
 {
   "asn": 153554,
-  "handle": "IDNIC-DBM-ID",
+  "handle": "IDNIC-DBM-AS-ID",
   "description": "PT Digital Bangun Mandiri",
   "subnets": {
     "ipv4": [

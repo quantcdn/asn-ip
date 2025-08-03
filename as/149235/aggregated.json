@@ -1,11 +1,11 @@
 {
   "asn": 149235,
-  "handle": "SUSNEHAM-IN",
+  "handle": "SUSNEHAM-AS-IN",
   "description": "Susneham Private Limited",
   "subnets": {
     "ipv4": [
       "103.124.210.0/23",
-      "103.157.22.0/23",
+      "103.157.23.0/24",
       "103.181.216.0/23",
       "103.183.28.0/23"
     ],

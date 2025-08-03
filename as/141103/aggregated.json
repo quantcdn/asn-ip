@@ -1,6 +1,6 @@
 {
   "asn": 141103,
-  "handle": "SEKARSA-ID",
+  "handle": "SEKARSA-AS-ID",
   "description": "PT Sekar Solusi Abadi",
   "subnets": {
     "ipv4": [

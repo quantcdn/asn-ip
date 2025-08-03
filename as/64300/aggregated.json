@@ -1,10 +1,10 @@
 {
   "asn": 64300,
-  "handle": "JSN-ID",
+  "handle": "JSN-AS-ID",
   "description": "PT JARINGANKU SARANA NUSANTARA",
   "subnets": {
     "ipv4": [
-      "45.126.41.0/24",
+      "45.126.40.0/23",
       "103.13.204.0/23",
       "103.18.232.0/23",
       "103.46.8.0/23",

@@ -1,4 +1,4 @@
-# AS25049 (STASCO-UK)
+# AS25049 (STASCO-UK-AS)
 # Shell Information Technology International B.V.
 #
 146.194.0.0/18

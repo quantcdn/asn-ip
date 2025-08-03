@@ -1,4 +1,4 @@
-# AS139786 (RAINBOW-AP)
+# AS139786 (RAINBOW-AS-AP)
 # Rainbow Network
 #
 103.145.57.0/24

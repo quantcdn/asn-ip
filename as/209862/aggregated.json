@@ -1,11 +1,9 @@
 {
   "asn": 209862,
-  "handle": "SKBKI",
+  "handle": "SKBKI-AS",
   "description": "Michal Skibicki",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0b:b87:ff17::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -1,6 +1,6 @@
 {
   "asn": 214914,
-  "handle": "DATANET",
+  "handle": "DATANET-ASN",
   "description": "Dimitrios Papadopoulos trading as Data Networks",
   "subnets": {
     "ipv4": [
@@ -9,8 +9,6 @@
       "185.164.52.0/24",
       "185.164.54.0/23"
     ],
-    "ipv6": [
-      "2a13:9500:80::/48"
-    ]
+    "ipv6": []
   }
 }

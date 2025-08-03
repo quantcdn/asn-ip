@@ -1,12 +1,10 @@
 {
   "asn": 200221,
-  "handle": "WKY",
+  "handle": "WKY-AS",
   "description": "Kam Yiu Wong",
   "subnets": {
     "ipv4": [],
     "ipv6": [
-      "2a0a:6040:2100::/48",
-      "2a0a:6040:2102::/48",
       "2a0a:6040:2104::/48"
     ]
   }

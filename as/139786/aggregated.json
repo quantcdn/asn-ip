@@ -1,6 +1,6 @@
 {
   "asn": 139786,
-  "handle": "RAINBOW-AP",
+  "handle": "RAINBOW-AS-AP",
   "description": "Rainbow Network",
   "subnets": {
     "ipv4": [
