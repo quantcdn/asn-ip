@@ -1,7 +1,7 @@
 {
   "asn": 263219,
   "handle": "WIRNET",
-  "description": "WIRNET S.R.L.",
+  "description": "WIRNET S.R.L",
   "subnets": {
     "ipv4": [
       "191.98.216.0/21"

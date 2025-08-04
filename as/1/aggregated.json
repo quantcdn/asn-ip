@@ -1,9 +1,10 @@
 {
   "asn": 1,
   "handle": "LVLT-1",
-  "description": "Level 3 Parent  LLC",
+  "description": "Level 3 Parent LLC",
   "subnets": {
     "ipv4": [
+      "45.228.75.0/24",
       "91.220.189.0/24",
       "177.75.88.0/24",
       "177.75.90.0/24",

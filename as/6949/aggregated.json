@@ -1,7 +1,7 @@
 {
   "asn": 6949,
   "handle": "CHARLES-SCHWAB",
-  "description": "Charles Schwab \u0026 Co.  Inc.",
+  "description": "Charles Schwab \u0026 Co. Inc",
   "subnets": {
     "ipv4": [
       "74.114.36.0/24",
@@ -19,6 +19,7 @@
       "162.93.112.0/20",
       "162.93.140.0/22",
       "162.93.152.0/22",
+      "162.93.158.0/24",
       "162.93.160.0/19",
       "162.93.192.0/18"
     ],

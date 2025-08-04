@@ -1,7 +1,7 @@
 {
   "asn": 273202,
   "handle": "ZONALIBRE-INGENIERIA",
-  "description": "ZONALIBRE INGENIERIA S.A.S.",
+  "description": "ZONALIBRE INGENIERIA S.A.S",
   "subnets": {
     "ipv4": [
       "38.52.171.0/24"

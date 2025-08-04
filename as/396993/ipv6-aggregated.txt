@@ -1,7 +1,8 @@
 # AS396993 (SORAXUS)
-# Soraxus Networks Inc.
+# Soraxus Networks Inc
 #
 2602:f743:100::/40
 2602:f743:200::/40
 2602:f743:3e5::/48
 2602:f743:3e6::/48
+2602:f743:3e8::/48

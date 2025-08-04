@@ -1,9 +1,10 @@
 {
   "asn": 21450,
   "handle": "MIRS-AS",
-  "description": "HOT Mobile Ltd.",
+  "description": "HOT Mobile Ltd",
   "subnets": {
     "ipv4": [
+      "80.246.128.0/24",
       "80.246.130.0/23",
       "80.246.132.0/22",
       "80.246.137.0/24",

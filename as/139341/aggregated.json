@@ -1,7 +1,7 @@
 {
   "asn": 139341,
   "handle": "ACE-AS-AP",
-  "description": "ACEVILLE PTE.LTD.",
+  "description": "ACEVILLE PTE.LTD",
   "subnets": {
     "ipv4": [
       "43.131.10.0/23",

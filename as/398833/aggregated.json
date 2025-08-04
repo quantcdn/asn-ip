@@ -1,7 +1,7 @@
 {
   "asn": 398833,
   "handle": "BIS-BOMBARDIER-INFORMATION-SOLUTIONS-PUBLIC-ASN-01",
-  "description": "Bombardier Inc.",
+  "description": "Bombardier Inc",
   "subnets": {
     "ipv4": [
       "142.19.56.0/23",

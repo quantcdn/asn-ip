@@ -1,5 +1,5 @@
 # AS38082 (IIT-TIG-AS-AP)
-# True International Gateway Co.  Ltd.
+# True International Gateway Co. Ltd
 #
 27.123.16.0/22
 58.97.24.0/24
@@ -14,4 +14,3 @@
 171.102.221.0/24
 171.102.237.0/24
 171.102.238.0/23
-209.209.84.0/22
